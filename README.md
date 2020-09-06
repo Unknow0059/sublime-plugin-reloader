@@ -50,5 +50,5 @@ git clone https://github.com/math2001/sublime-plugin-reloader reload_plugin
 
 Because it is not available on package control for now, you have to add this repo "manually" to your list.
 
-1. Open up the command palette (`ctrl+shift+p`), and find `Package Control: Add Repository`. Then enter the URL of this repo: `https://github.com/math2001/reload_plugin` in the input field.
+1. Open up the command palette (`ctrl+shift+p`), and find `Package Control: Add Repository`. Then enter the URL of this repo: `https://github.com/math2001/sublime-plugin-reloader` in the input field.
 2. Open up the command palette again and find `Package Control: Install Package`, and just search for `reload_plugin`. (just a normal install)
